@@ -65,11 +65,14 @@ An interactive Python application that combines mathematical computation with a 
 I also write about the practical side of building AI applications.
 
 ### Building My First AI Chrome Extension Taught Me More Than Any AI Course
+
 Part I- From Idea to Architecture
 🔗[Read on Medium](https://medium.com/ai-in-plain-english/building-my-first-ai-chrome-extension-taught-me-more-than-any-ai-course-3b7ec4ef7f06)
 
-Part II - From Code to Production
+Part-II From Code to Production
 🔗[Read on Medium](https://medium.com/ai-in-plain-english/building-my-first-ai-chrome-extension-taught-me-more-than-any-ai-course-0f0a2c4034b5)
+
+
 ----------------------------------------------------------------------------------------------------
 ## 📌 Currently
 
